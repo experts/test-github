@@ -1,3 +1,3 @@
 test-github
 ===========
-test edit in dev branch
+test edit in dev branch edit in editor
