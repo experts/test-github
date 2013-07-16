@@ -7,4 +7,6 @@ more edits
 # test 1 - edited second time
 kažkas ...
 
-# antras branch
+# antras branch - edited
+
+# trečias branch
